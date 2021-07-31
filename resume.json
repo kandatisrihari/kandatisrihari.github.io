@@ -1,23 +1,23 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "KANDATI SRI HARI",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"email": "kandatisrihari18@gmail.com",
+		"phone": "9347635636",
+		"website": " No",
+		"summary": " I am good at c language and data structure",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "Near saibaba temple, manamala village, ojili mandal, spsr nellore district, Andhrapradesh.",
+			"postalCode": "524402",
+			"city": "Nellore",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Andhra Pradesh"
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "Kandati Srihari",
+				"url": "https://twitter.com/KandatiSrihari?s=08"
 			},
 			{
 				"network": "Github",
@@ -58,9 +58,9 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"startDate": "2019-04-08 //Date",
 		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"gpa": "7.94",
 		"courses": [
 			"Computer Science & Engineering"
 		]
@@ -77,11 +77,11 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "DSA", "C"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Chess", "Badminton", " Carroms"]
 	}],
 	"references": []
 }

@@ -21,8 +21,8 @@
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "kandatisrihari",
+				"url": "https://github.com/kandatisrihari"
 			},
 			{
 				"network": "linkedin",
@@ -49,11 +49,6 @@
 		]
 	}],
 	
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
 	"skills": [{
 		"level": "Master",
 		"keywords": ["HTML", "CSS", "DSA", "C"]
